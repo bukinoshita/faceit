@@ -1,6 +1,7 @@
 # faceit
 > Diverse user images for user interface design
 
+[![Codeship Status for bukinoshita/faceit](https://app.codeship.com/projects/08540970-df5d-0134-cc73-3ee5398937b8/status?branch=master)](https://app.codeship.com/projects/204918)
 [![GitHub release](https://img.shields.io/github/release/bukinoshita/faceit.svg)](https://www.npmjs.com/package/faceit)
 [![license](https://img.shields.io/github/license/bukinoshita/faceit.svg)](https://raw.githubusercontent.com/bukinoshita/faceit/master/LICENSE)
 
