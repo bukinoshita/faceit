@@ -23,5 +23,8 @@
     "rules": {
       "no-mixed-operators": 0
     }
+  },
+  "dependencies": {
+    "is-reachable": "^2.3.2"
   }
 }

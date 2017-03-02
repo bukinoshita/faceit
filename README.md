@@ -5,8 +5,6 @@
 [![GitHub release](https://img.shields.io/github/release/bukinoshita/faceit.svg)](https://www.npmjs.com/package/faceit)
 [![license](https://img.shields.io/github/license/bukinoshita/faceit.svg)](https://raw.githubusercontent.com/bukinoshita/faceit/master/LICENSE)
 
-faceit is a hack way to get images from [DiverseUI](https://www.diverseui.com/). It's not bullet proof and it's not perfect. It was created with prototyping/mocking up user interface purpose only. It's not recommended to use in production because the requests may fail.
-
 ## Install
 ```bash
 $ npm install faceit
