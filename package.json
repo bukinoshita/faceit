@@ -12,6 +12,7 @@
   "scripts": {
     "test": "xo && ava"
   },
+  "keywords": ["faceit", "diverseui", "ui", "diverse", "face", "avatar"],
   "devDependencies": {
     "ava": "^0.18.2",
     "xo": "^0.17.1"

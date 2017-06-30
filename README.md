@@ -1,11 +1,9 @@
-# faceit
+# faceit [![Build Status](https://travis-ci.org/bukinoshita/faceit.svg?branch=master)](https://travis-ci.org/bukinoshita/faceit)
 > Diverse user images for user interface design
 
-[![Codeship Status for bukinoshita/faceit](https://app.codeship.com/projects/08540970-df5d-0134-cc73-3ee5398937b8/status?branch=master)](https://app.codeship.com/projects/204918)
-[![GitHub release](https://img.shields.io/github/release/bukinoshita/faceit.svg)](https://www.npmjs.com/package/faceit)
-[![license](https://img.shields.io/github/license/bukinoshita/faceit.svg)](https://raw.githubusercontent.com/bukinoshita/faceit/master/LICENSE)
 
 ## Install
+
 ```bash
 $ npm install faceit
 ```
@@ -25,19 +23,24 @@ faceit.female()
 ```
 
 ## API
+
 ### .random()
-Type: `string`<br/>
+
+returns a `string`<br/>
 Random faceit image
 
 ### .male()
-Type: `string`<br/>
+
+returns a `string`<br/>
 Random faceit male image
 
 ### .female()
-Type: `string`<br/>
+
+returns a `string`<br/>
 Random faceit female image
 
-## License
-[MIT](https://github.com/bukinoshita/faceit/blob/master/LICENSE) &copy; Bu Kinoshita
 
+## License
+
+MIT © [Bu Kinoshita](https://bukinoshita.io)<br/>
 [DiverseUI](https://www.diverseui.com/)
