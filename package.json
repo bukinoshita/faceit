@@ -1,6 +1,6 @@
 {
   "name": "faceit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Diverse user images for user interface design",
   "main": "index.js",
   "repository": {
@@ -12,7 +12,14 @@
   "scripts": {
     "test": "xo && ava"
   },
-  "keywords": ["faceit", "diverseui", "ui", "diverse", "face", "avatar"],
+  "keywords": [
+    "faceit",
+    "diverseui",
+    "ui",
+    "diverse",
+    "face",
+    "avatar"
+  ],
   "devDependencies": {
     "ava": "^0.18.2",
     "xo": "^0.17.1"
