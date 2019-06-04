@@ -21,8 +21,8 @@
     "avatar"
   ],
   "devDependencies": {
-    "ava": "^0.18.2",
-    "xo": "^0.17.1"
+    "ava": "0.18.2",
+    "xo": "0.17.1"
   },
   "xo": {
     "semicolon": false,
