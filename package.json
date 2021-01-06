@@ -21,7 +21,7 @@
     "avatar"
   ],
   "devDependencies": {
-    "ava": "2.4.0",
+    "ava": "3.15.0",
     "xo": "0.25.3"
   },
   "xo": {
